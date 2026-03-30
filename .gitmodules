@@ -1,0 +1,9 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = ./eureka-server
+[submodule "config-server"]
+	path = config-server
+	url = ./config-server
+[submodule "api-gateway"]
+	path = api-gateway
+	url = ./api-gateway
