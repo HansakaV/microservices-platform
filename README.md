@@ -5,7 +5,7 @@ This repository contains the core platform services for the Bus Depot Management
 ## Student Information
 - **Name:** Mahesh Hansaka
 - **Student Number:** 2301691104
-- **GCP Project ID:** project-a328dfec-018f-4204-865
+- **GCP Project ID:** bus-depot-management-491905 
 
 ## Platform Services
 1. **Config Server**: Centralized configuration management.
@@ -13,7 +13,7 @@ This repository contains the core platform services for the Bus Depot Management
 3. **API Gateway**: Single entry point for all client requests.
 
 ## Technology Stack
-- Java 25
+- Java 
 - Spring Boot
 - Spring Cloud (Gateway, Config, Netflix Eureka)
 
